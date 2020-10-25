@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px 0;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    list-style: none;
+    margin: 0px;
+}
+nav ul li{
+    float: left;
+    margin-left: 106px;
+    margin-top: 5px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #626262;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 14px;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+}
+.photodiary h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.photodiary h1{
+
+font-size: 30px;
+
+color: #626262;
+
+margin-bottom: 20px;
+}
+.photodiary p{
+
+font-size: 14px;
+
+color: #626262;
+}
+
+.lifestyle{
+   width: 80%;
+   margin: auto;
+   overflow: hidden;
+}
+.lifestyle_one{
+    width: 48%;
+    float: left;
+    margin-bottom: 100px;
+}
+.lifestyle_one img{
+    width: 100%;
+}
+.lifestyle_one h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_one h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_one p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+.lifestyle_two{
+    width: 48%;
+    float: right;
+    margin-bottom: 100px;
+}
+.lifestyle_two img{
+    width: 100%;
+}
+.lifestyle_two h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_two h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_two p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+
+.lifestyle_three{
+    width: 48%;
+    float: left;
+    margin-bottom: 100px;
+}
+.lifestyle_three img{
+    width: 100%;
+}
+.lifestyle_three h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_three h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_three p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+.lifestyle_four{
+    width: 48%;
+    float: right;
+    margin-bottom: 100px;
+}
+.lifestyle_four img{
+    width: 100%;
+}
+.lifestyle_four h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_four h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_four p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+.newsletter{
+    background-color: #f0f0f0;
+    margin: 50px 0;
+    padding: 82px 0;
+}
+.new-content{
+    width: 22%;
+    margin: auto;
+    position: relative;
+}
+.new-content h1{
+    font-size: 30px;
+    color: #626262;
+}
+.new-content input{
+
+border: none;
+
+border-bottom: 1px solid black;
+
+width: 100%;
+
+background: transparent;
+
+margin-top: 75px;
+}
+
+.new-content input:focus{
+    outline: none;
+}
+
+.new-content input::placeholder{
+    color: #626262;
+}
+    
+
+.icon{
+    position: absolute;
+    right: 0;
+    top: 105px;
+}
+.lifestyle_five{
+    width: 48%;
+    float: left;
+    margin-bottom: 100px;
+}
+.lifestyle_five img{
+    width: 100%;
+}
+.lifestyle_five h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_five h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_five p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+.lifestyle_six{
+    width: 48%;
+    float: right;
+    margin-bottom: 100px;
+}
+.lifestyle_six img{
+    width: 100%;
+}
+.lifestyle_six h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    margin: 15px 0;
+}
+.lifestyle_six h1{
+
+    font-size: 30px;
+
+    color: #626262;
+    
+    margin-bottom: 20px;
+}
+.lifestyle_six p{
+
+    font-size: 14px;
+
+    color: #626262;
+}
+.load{
+
+ padding: 100px 0;
+
+ text-align: center;
+}
+.load input{
+    
+ background: transparent;
+    
+ border: 1px solid #626262;
+    
+ padding: 21px 38px;
+    
+ font-size: 15px;
+    
+ color: #626262;
+    
+ cursor: pointer;
+}
+.footer{
+
+   width: 90%;
+
+    margin: auto;
+
+   background: #f0f0f0;
+   overflow: hidden;
+
+}
+.terms{
+    width: 30%;
+    float: left;
+    list-style: none
+}
+.terms ul{
+  overflow: hidden;
+}
+.terms ul li{
+   float: left;
+}
+.terms ul li a{
+
+}
+.social-icon{
+    width: 30%;
+    float: right;
+    list-style: none;
+}
+.social-icon ul{
+    
+
+}
+.social-icon ul li{
+    float: right;
+}
+.social-icon ul li a{
+    
+}
